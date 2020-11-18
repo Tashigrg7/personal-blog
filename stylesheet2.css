@@ -1,0 +1,36 @@
+#horseimage{
+    width:300px;
+    height: 200px;
+    border: 1px black solid;
+}
+#fact{
+    font-style: italic;
+    margin-left: 10px;
+    margin-right: 10px;
+}
+.label{
+    font-weight: bold;
+}
+#animalcard{
+    border:1px black solid;
+    padding: 10px;
+     width: 300px;
+    height: 585px;
+    
+}
+#animal-information{
+    border: 1px black solid;
+     width:300px;
+    height: 320px;
+
+}
+#list{
+    list-style: none;
+    margin-left: 10px;
+    margin-right: 10px;
+    
+}
+#para{
+    margin-left: 10px;
+    margin-right: 10px;
+}
